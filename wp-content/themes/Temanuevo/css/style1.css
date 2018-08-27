@@ -1,0 +1,72 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.container-fluid{
+	width: 80%;
+	height: auto;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.col-4{
+	background-color: #7CEA9C;
+}
+
+.foto{
+	margin-top: 40px;
+	margin-left: 25px;
+}
+
+img{
+	border: 1px solid #ddd;
+    border-radius: 360px;
+    padding: 5px;
+    width: 250px;
+}
+
+
+.base{
+	margin-top: 40px;
+	margin-left: 25px;
+
+}
+
+.base ul{
+	list-style-type: none;
+	padding-left: 80px;
+
+}
+
+.base li{
+   padding-top: 10px;
+}
+
+.experiencia ul{
+	list-style-type: none;
+    margin-left: 25px;
+}
+
+.trabajo{
+	margin-top: 40px;
+	margin-left: 25px;
+}
+
+
+.nombre{
+	margin-top: 40px;
+}
+
+
+.educacion ul{
+	list-style-type: none;
+}
+
+
+.habilidades ul{
+	list-style-type: none;
+
+}
+	
